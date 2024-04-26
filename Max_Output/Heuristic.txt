@@ -1,0 +1,146 @@
+Heuristic Output:
+
+Graph from: Graphs/Q15V100.adjmat
+Maximum clique: {0, 64, 34, 7, 90}
+Maximum clique Size:5
+Time:0.0
+
+Graph from: Graphs/test24.adjmat
+Maximum clique: {0, 7}
+Maximum clique Size:2
+Time:0.0
+
+Graph from: Graphs/test24.adjmat
+Maximum clique: {0, 7}
+Maximum clique Size:2
+Time:0.0010080337524414062
+
+Graph from: Graphs/test24.adjmat
+Maximum clique: {0, 7}
+Maximum clique Size:2
+Time:0.004843473434448242
+
+Graph from: Graphs/G250.adjmat
+Maximum clique: {0, 1, 3, 67, 6, 7, 135, 38, 40, 239, 207}
+Maximum clique Size:11
+Time:0.010089874267578125
+
+Graph from: Graphs/G1000.adjmat
+Maximum clique: {0, 1, 3, 964, 518, 390, 144, 497, 20}
+Maximum clique Size:9
+Time:0.00711369514465332
+
+Graph from: Graphs/G3000.adjmat
+Maximum clique: {0, 1, 2050, 2048, 2049, 2051, 1538, 1542, 134, 2054, 265, 929, 2919, 142, 1504, 2992, 2679, 2594}
+Maximum clique Size:18
+Time:0.02024054527282715
+
+Graph from: Graphs/test24.adjmat
+Maximum clique: {0, 7}
+Maximum clique Size:2
+Time:0.00566554069519043
+
+Graph from: Graphs/test24.adjmat
+Maximum clique: {9, 19, 7}
+Maximum clique Size:3
+Time:0.0025174617767333984
+
+Graph from: Graphs/G250.adjmat
+Maximum clique: {227, 37, 102, 71, 40, 5, 235, 11, 118, 91, 124}
+Maximum clique Size:11
+Time:0.004572868347167969
+
+Graph from: Graphs/G250.adjmat
+Maximum clique: {164, 90, 104, 8, 202, 243, 148, 121, 218, 60, 189, 191}
+Maximum clique Size:12
+Time:0.006490468978881836
+
+Graph from: Graphs/G1000.adjmat
+Maximum clique: {907, 144, 721, 23, 373, 854, 375, 536, 89, 605}
+Maximum clique Size:10
+Time:0.008783102035522461
+
+Graph from: Graphs/G250.adjmat
+Maximum clique: {11, 237, 15, 111, 114, 188, 53, 185, 90, 60, 126}
+Maximum clique Size:11
+Time:0.004945278167724609
+
+Graph from: Graphs/G6000.adjmat
+Maximum clique: {5186, 1513, 3693, 1554, 4758, 5654, 4569, 5338}
+Maximum clique Size:8
+Time:0.9211702346801758
+
+Graph from: Graphs/G6000.adjmat
+Maximum clique: {5665, 4130, 4967, 1479, 4409, 5515, 5525, 2037, 921}
+Maximum clique Size:9
+Time:0.8875892162322998
+
+Graph from: Graphs/G3000.adjmat
+Maximum clique: {2055, 2316, 786, 18, 544, 1200, 1074, 312, 2874, 1605, 1099, 2126, 464, 342, 1878, 2138, 2412, 237, 1007, 2302}
+Maximum clique Size:20
+Time:1.289396047592163
+
+Graph from: Graphs/G6000.adjmat
+Maximum clique: {2752, 4228, 3204, 4007, 533, 5269, 311, 27, 1054}
+Maximum clique Size:9
+Time:0.9044482707977295
+
+Graph from: Graphs/G250.adjmat
+Maximum clique: {99, 132, 135, 107, 204, 172, 78, 207, 80, 17, 114, 22, 89, 31}
+Maximum clique Size:14
+Time:0.25263476371765137
+
+Graph from: Graphs/G250.adjmat
+Maximum clique: {161, 34, 36, 100, 199, 139, 140, 44, 209, 157, 87, 156, 189}
+Maximum clique Size:13
+Time:0.2369554042816162
+
+Graph from: Graphs/G3000.adjmat
+Maximum clique: {1920, 2182, 2576, 2321, 1696, 802, 2216, 2994, 2356, 2235, 319, 1473, 2892, 2508, 845, 218, 2657, 2543, 2928}
+Maximum clique Size:19
+Time:1.4319829940795898
+
+Graph from: Graphs/G3000.adjmat
+Maximum clique: {2956, 2831, 533, 2585, 1573, 2856, 1471, 2111, 2115, 595, 1496, 1625, 2651, 2142, 2529, 1250, 2147, 367, 2160, 2302}
+Maximum clique Size:20
+Time:1.3773272037506104
+
+Graph from: Graphs/G3000.adjmat
+Maximum clique: {131, 519, 781, 2445, 527, 2576, 15, 1447, 2728, 2603, 1837, 1583, 1474, 69, 2502, 83, 1492, 1511, 1645, 760}
+Maximum clique Size:20
+Time:1.341325283050537
+
+Graph from: Graphs/G6000.adjmat
+Maximum clique: {2977, 4484, 1483, 5931, 2966, 3734, 4504, 1503}
+Maximum clique Size:8
+Time:0.9670252799987793
+
+Graph from: Graphs/G6000.adjmat
+Maximum clique: {4737, 1558, 2969, 1561, 2971, 4382, 5792, 1206, 2617, 5439, 4032, 4031, 855, 5086, 5349, 499, 1910, 3322, 3323}
+Maximum clique Size:19
+Time:0.8380091190338135
+
+Graph from: Graphs/G6000.adjmat
+Maximum clique: {2978, 2979, 2114, 5542, 1258, 1260, 1261, 4688, 4689, 403, 4691, 2677, 3832, 409, 2972, 2975}
+Maximum clique Size:16
+Time:0.9563577175140381
+
+Graph from: Graphs/G16000.adjmat
+Maximum clique: {259, 13509, 11081, 13200, 10672, 2580, 15381, 14357, 15765, 13048, 6238, 1245, 12286}
+Maximum clique Size:13
+Time:0.38309574127197266
+
+Graph from: Graphs/G16000.adjmat
+Maximum clique: {3972, 5098, 9035, 14316, 13516, 943, 5936, 9648, 12627, 12851, 3576, 1660, 4157, 7134}
+Maximum clique Size:14
+Time:0.8942444324493408
+
+Graph from: Graphs/G6000.adjmat
+Maximum clique: {3968, 1442, 1124, 1126, 5863, 809, 3019, 5547, 494, 5231, 2705, 4914, 179, 4703}
+Maximum clique Size:14
+Time:0.8204782009124756
+
+Graph from: Graphs/G16000.adjmat
+Maximum clique: {15972, 13063, 8831, 6416, 11441, 6258, 8787, 8245, 14039, 11355, 9021, 10846, 383}
+Maximum clique Size:13
+Time:1.1093664169311523

@@ -1,0 +1,36 @@
+Vertex Cover Output:
+
+Graph from: G250.adjmat
+Maximum clique: {130, 173, 176, 50, 180, 57, 223}
+Maximum clique Size:7
+Time:0.008912801742553711
+
+Graph from: G1000.adjmat
+Maximum clique: {902, 998, 522, 781, 312, 345, 989}
+Maximum clique Size:7
+Time:0.1443495750427246
+
+Graph from: D14G100.adjmat
+Maximum clique: {82, 93}
+Maximum clique Size:2
+Time:0.0020101070404052734
+
+Graph from: G3000.adjmat
+Maximum clique: {2531, 2919, 2859, 2701, 2932, 2869, 127, 2687}
+Maximum clique Size:8
+Time:1.2633788585662842
+
+Graph from: Graphs/G3000.adjmat
+Maximum clique: {2531, 2919, 2859, 2701, 2932, 2869, 127, 2687}
+Maximum clique Size:8
+Time:1.2448766231536865
+
+Graph from: Graphs/G3000.adjmat
+Maximum clique: {2531, 2919, 2859, 2701, 2932, 2869, 127, 2687}
+Maximum clique Size:8
+Time:1.2812845706939697
+
+Graph from: Graphs/G6000.adjmat
+Maximum clique: {5121, 5160, 4745, 5611, 5213}
+Maximum clique Size:5
+Time:5.5738561153411865

@@ -1,0 +1,6 @@
+Brute Force Output:
+
+Graph from: test24.adjmat
+Maximum clique: [2, 7, 9]
+Maximum clique Size:3
+Time:21.335204362869263
